@@ -1,0 +1,11 @@
+Total product: 3
+		**********List product**********
+ID                Name               Price            Quantity
+0                                       0                   0
+0                                       0                   0
+0                                       0                   0
+		*********List product sold*********
+ID                Name               Price            Quantity
+0                                       0                   0
+0                                       0                   0
+0                                       0                   0

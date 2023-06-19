@@ -1,0 +1,5 @@
+Total product: 3
+ID                Name               Price            Quantity            Purchase
+1              iphone            25000000                  46            20000000
+2             samsung            21000000                  24            15000000
+3                oppo            16000000                  15            12000000
